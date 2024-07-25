@@ -1,0 +1,11 @@
+**Database Name: membershiphp**
+
+**Developed by @sanskruti_18**
+
+**Recommended PHP Version 7**
+
+
+**Login Details**
+
+Email   : admin@mail.com
+Password: admin
